@@ -1,0 +1,5 @@
+html {background-color: beige;}
+header {background-color: black}
+
+.imagen-redonda {border-radius: 50%; block-size: 150px;}
+.nav-link {position: right;}
