@@ -10,7 +10,7 @@ a {
 }
 
 header { 
-         background-color: black;
+         background-color: #1e1e1e;
          display:flex;
          min-height: 70px;
          justify-content: space-between;
@@ -22,7 +22,7 @@ header {
     display:flex;
     align-items: center;
 }
-.imagen-redonda {border-radius: 50%; height: 75px;
+.imagen-redonda {border-radius: 50%; height: 70px;
                  margin: 10px;}
 .nav-link {position: right;}
 .nombre-empresa {color: white;
