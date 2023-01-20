@@ -25,8 +25,10 @@ header {
 .imagen-redonda {border-radius: 50%; height: 75px;
                  margin: 10px;}
 .nav-link {position: right;}
-.nombre-empresa {color: white;}
-
+.nombre-empresa {color: white;
+                 font-style: italic;
+                 font-family: Georgia, 'Times New Roman', Times, serif;}
+                 
 nav a {font-weight: 600;
          margin: 3px;}
 
