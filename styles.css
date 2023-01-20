@@ -25,7 +25,7 @@ header {
 .imagen-redonda {border-radius: 50%; height: 75px;
                  margin: 10px;}
 .nav-link {position: right;}
-.nombre-empresa {color: beige;}
+.nombre-empresa {color: white;}
 
 nav a {font-weight: 600;
          margin: 3px;}
@@ -34,7 +34,7 @@ nav a:hover {
     color: coral;
 }
 
-@media (max-width:500px){
+@media (max-width:700px){
     header{
         flex-direction: column;
         
