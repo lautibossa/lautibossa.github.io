@@ -21,7 +21,6 @@ header {
 .logo {
     display:flex;
     align-items: center;
-    margin-left: 5px;
 }
 .imagen-redonda {border-radius: 50%; height: 70px;
                  margin: 10px;}
@@ -53,8 +52,8 @@ nav a:hover {
     display: flex;
     padding: 5px;
     flex-wrap: wrap;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
     }
 
 .row img {
@@ -71,13 +70,13 @@ nav a:hover {
 .colum img {
     margin-top: 5px;
 }
-@media (max-width: 900px){
+@media (max-width: 800px){
     .colum{
         flex: 40%;
     }
     .row{
-        margin-left: 15%;
-    margin-right: 15%;
+        margin-left: 25%;
+    margin-right: 10%;
     }
 }
 @media (max-width: 600px){
