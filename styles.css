@@ -88,13 +88,13 @@ nav a:hover {
     width: 100%;
     background-color: #1e1e1e;
     color: beige;
-    
+    display: flex;
      
     
 }
 
 .pie-pagina .grupo-1{
- 
+    width: 100%;
     margin-left: 5%;
     margin-right: 5%;
     display: grid;
@@ -103,10 +103,23 @@ nav a:hover {
     padding: 45px 0px;
     
 }
-
-
-.pie-pagina .grupo-2{
+.box2 a {
+    margin: 0 15px;
+    width: 40px;
+    height: 40px;
     text-align: center;
+    line-height: 40px;
+    background-color: beige;
+    color: coral;
+    border-radius: 50%;
+    
+}
+.box3{
+    text-align: center;
+    background-color: coral;
+    height: 50px;
+    line-height: 50px;
+    
 }
 
 
